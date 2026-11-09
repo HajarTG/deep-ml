@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:26:07.143Z",
+  "generated_at": "2026-11-09T23:49:45.501Z",
   "items": {
     "problem:957": {
       "kind": "problem",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/problems/957",
       "path": "problems/0957-implement-batched-causal-self-attention",
       "first_solved_at": "2026-11-03T18:26:01.923Z",
-      "last_pushed_at": "2026-11-03T18:26:01.923Z",
+      "last_pushed_at": "2026-11-09T23:49:45.574Z",
       "language": "python",
       "lines": 39
     }
