@@ -17,7 +17,7 @@ def batched_causal_self_attention(X, W_query, W_key, W_value):
     W_value = np.asarray(W_value, dtype=float)
 
     B, T, _ = X.shape
-    d_out = W_query.shape[1]
+    d_out = W_query.shape[-1]
 
     Q = np.dot(X, W_query)
     K = np.dot(X, W_key)
