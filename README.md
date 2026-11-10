@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 2 problems · 0 labs · 0 math
+**3** solved · 3 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Implement Batched Causal Self-Attention](https://www.deep-ml.com/problems/957) | medium | 2026-11-03 | [solution](problems/0957-implement-batched-causal-self-attention) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-10 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-10 | [solution](problems/0094-implement-multi-head-attention) |
 
 ---
